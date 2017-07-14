@@ -1,0 +1,100 @@
+\begin{thebibliography}{20}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+
+\bibitem[{Bezdek et~al.(1984)Bezdek, Ehrlich, and Full}]{bezdek1984fcm}
+Bezdek, J.~C., Ehrlich, R., Full, W., 1984. Fcm: The fuzzy c-means clustering
+  algorithm. Computers \& Geosciences 10~(2-3), 191--203.
+
+\bibitem[{Bissell(1994)}]{bissell1994statistical}
+Bissell, D., 1994. Statistical Methods for SPC and TQM. Vol.~26. CRC Press.
+
+\bibitem[{Chaudhur and Rosenfeld(1996)}]{chaudhur1996metric}
+Chaudhur, B., Rosenfeld, A., 1996. On a metric distance between fuzzy sets.
+  Pattern Recognition Letters 17~(11), 1157--1160.
+
+\bibitem[{Cheng et~al.(2004)Cheng, Guo, Shi, et~al.}]{Cheng2004}
+Cheng, J., Guo, H., Shi, W., et~al., 2004. The uncertainty of remote sensing
+  data.
+
+\bibitem[{De~Carvalho et~al.(2006)De~Carvalho, de~Souza, Chavent, and
+  Lechevallier}]{de2006adaptive}
+De~Carvalho, F. d.~A., de~Souza, R.~M., Chavent, M., Lechevallier, Y., 2006.
+  Adaptive hausdorff distances and dynamic clustering of symbolic interval
+  data. Pattern Recognition Letters 27~(3), 167--179.
+
+\bibitem[{Diamond and Kloeden(1994)}]{diamond1994metric}
+Diamond, P., Kloeden, P., 1994. Metric spaces of fuzzy sets: theory and
+  applications. World scientific.
+
+\bibitem[{Geneletti and Gorte(2003)}]{geneletti2003method}
+Geneletti, D., Gorte, B., 2003. A method for object-oriented land cover
+  classification combining landsat tm data and aerial photographs.
+  International Journal of Remote Sensing 24~(6), 1273--1286.
+
+\bibitem[{Ghosh et~al.(2011)Ghosh, Mishra, and Ghosh}]{ghosh2011fuzzy}
+Ghosh, A., Mishra, N.~S., Ghosh, S., 2011. Fuzzy clustering algorithms for
+  unsupervised change detection in remote sensing images. Information Sciences
+  181~(4), 699--715.
+
+\bibitem[{Guo et~al.(2007)Guo, Kelly, Gong, and Liu}]{guo2007object}
+Guo, Q., Kelly, M., Gong, P., Liu, D., 2007. An object-based classification
+  approach in mapping tree mortality using high spatial resolution imagery.
+  GIScience \& Remote Sensing 44~(1), 24--47.
+
+\bibitem[{He et~al.(2016)He, Liang, Hu, and Yu}]{he2016remote}
+He, H., Liang, T., Hu, D., Yu, X., 2016. Remote sensing clustering analysis
+  based on object-based interval modeling. Computers \& Geosciences 94,
+  131--139.
+
+\bibitem[{Ibrahim et~al.(2005)Ibrahim, Arora, and
+  Ghosh}]{ibrahim2005estimating}
+Ibrahim, M., Arora, M., Ghosh, S., 2005. Estimating and accommodating
+  uncertainty through the soft classification of remote sensing data.
+  International Journal of Remote Sensing 26~(14), 2995--3007.
+
+\bibitem[{Irpino et~al.(2014)Irpino, Verde, and
+  De~Carvalho}]{irpino2014dynamic}
+Irpino, A., Verde, R., De~Carvalho, F. d.~A., 2014. Dynamic clustering of
+  histogram data based on adaptive squared wasserstein distances. Expert
+  Systems with Applications 41~(7), 3351--3366.
+
+\bibitem[{Moore(1966)}]{moore1966interval}
+Moore, R.~E., 1966. Interval analysis. Vol.~4. Prentice-Hall Englewood Cliffs.
+
+\bibitem[{Saha et~al.(2002)Saha, Wehrli, and Gomberg}]{saha2002fuzzy}
+Saha, P.~K., Wehrli, F.~W., Gomberg, B.~R., 2002. Fuzzy distance transform:
+  theory, algorithms, and applications. Computer Vision and Image Understanding
+  86~(3), 171--190.
+
+\bibitem[{Schowengerdt(2006)}]{schowengerdt2006remote}
+Schowengerdt, R.~A., 2006. Remote sensing: models and methods for image
+  processing. Academic press.
+
+\bibitem[{Tenenbaum et~al.(2011)Tenenbaum, Yang, and
+  Zhou}]{tenenbaum2011comparison}
+Tenenbaum, D.~E., Yang, Y., Zhou, W., 2011. A comparison of object-oriented
+  image classification and transect sampling methods for obtaining land cover
+  information from digital orthophotography. GIScience \& Remote Sensing
+  48~(1), 112--129.
+
+\bibitem[{Wang(1997)}]{wang1997new}
+Wang, W.-J., 1997. New similarity measures on fuzzy sets and on elements. Fuzzy
+  sets and systems 85~(3), 305--309.
+
+\bibitem[{Yu et~al.(2012)Yu, An, and He}]{yu2012method}
+Yu, X., An, W., He, H., 2012. A method of auto classification based on object
+  oriented unsupervised classification. Progress in Geophysics 27~(2),
+  744--749.
+
+\bibitem[{Zadeh(1965)}]{zadeh1965fuzzy}
+Zadeh, L.~A., 1965. Fuzzy sets. Information and control 8~(3), 338--353.
+
+\bibitem[{Zwick et~al.(1987)Zwick, Carlstein, and Budescu}]{zwick1987measures}
+Zwick, R., Carlstein, E., Budescu, D.~V., 1987. Measures of similarity among
+  fuzzy concepts: A comparative analysis. International Journal of Approximate
+  Reasoning 1~(2), 221--242.
+
+\end{thebibliography}
